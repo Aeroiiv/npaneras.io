@@ -6,7 +6,7 @@
 */
 
 body {
-  background-color: #000000;
+  background-color: #c9c9c9;
   font-family: "Lato";
   font-weight: 300;
   font-size: 16px;
@@ -176,12 +176,12 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 #headerwrap h3 {
   font-size: 20px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 /* Intnro Wrap */
