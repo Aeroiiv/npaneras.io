@@ -91,7 +91,7 @@ hr {
   display: inline-block;
 }
 
-#CV a:hover, a:active {
+#CV-download a:hover, a:active {
   background-color: #44bbaa;
 }
 
