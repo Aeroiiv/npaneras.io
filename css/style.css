@@ -70,7 +70,7 @@ hr {
 }
 
 #resume-download a:link, a:visited {
-  background-color: #97f1e4;
+  background-color: #3f5366;
   color:black;
   padding: 14px 25px;
   text-align:  center;
@@ -79,7 +79,7 @@ hr {
 }
 
 #resume-download a:hover, a:active {
-  background-color: #44bbaa);
+  background-color: #44bbaa;
 }
 
 
