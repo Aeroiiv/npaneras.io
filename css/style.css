@@ -20,7 +20,7 @@ body {
 h1, h2, h3, h4, h5, h6{
   font-family: "Raleway";
   font-weight: 500;
-  color: rgb(255, 255, 255);
+  color: rgb(26, 25, 25);
 }
 
 /* Paragraph & Typographic */
@@ -202,12 +202,12 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 #headerwrap h3 {
   font-size: 20px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 /* Intnro Wrap */
