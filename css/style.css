@@ -202,7 +202,7 @@ SECTION WRAPS
 
 #headerwrap h1 {
   font-size: 80px;
-  color: rgb(187, 187, 187);
+  color: rgb(0, 0, 0);
 }
 
 #headerwrap h3 {
