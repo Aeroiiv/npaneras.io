@@ -183,7 +183,7 @@ SECTION WRAPS
 
 #headerwrap {
   background: url(../img/civilengbackground.jpg) no-repeat center top;
-  margin-top: 60px;
+  /*margin-top: 60px;*/
   padding-top: 140px;
   text-align: center;
   background-attachment: relative;
